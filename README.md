@@ -26,5 +26,5 @@ Or (recommended)
 * To use a library in a sketch, select it from Sketch > Import Library (Zip file).
 
 ## Revision History
-* Initial Release : 3 Apr 2014
+* Initial Release : 03 Apr 2014
 * This version has been adapted: Mr Med Ali Mortadha DAHMANI, MAMD-2014.
