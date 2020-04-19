@@ -1,7 +1,10 @@
 # Ethernet MAMDWiz Library :computer: :satellite: :electric_plug:
+## Summary
+### What is Ethernet?
+Ethernet (/ˈiːθərnɛt/) is a family of computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).[1] It was commercially introduced in 1980 and first standardized in 1983 as IEEE 802.3. Ethernet has since retained a good deal of backward compatibility and has been refined to support higher bit rates, a greater number of nodes, and longer link distances. Over time, Ethernet has largely replaced competing wired LAN technologies such as Token Ring, FDDI and ARCNET. 
 
-Ethernet MAMDWiz Library is made for various Open Source Hardware Platform and support WIZnet's W5500 chip. 
-The Ethernet library lets you connect to the Internet or a local network
+* Ethernet MAMDWiz Library is made for various Open Source Hardware Platform and support WIZnet's W5500 chip. 
+* The Ethernet library lets you connect your Arduino to the Internet or a local network
 
 ## Requirements
 - ``Arduino IDE 1.0.x and newer``
