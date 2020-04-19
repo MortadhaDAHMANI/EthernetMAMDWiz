@@ -45,4 +45,4 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 04 April 2014
 
 ### License
-* EthernetMAMDWiz is distributed under the **LGPL** version 3 license.
+* _EthernetMAMDWiz_ is distributed under the **LGPL** version 3 license.
